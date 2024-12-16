@@ -23,4 +23,4 @@ jxxghp/moviepilot
 zerotier/zerotier-synology
 wiserain/flexget
 iyuucn/iyuuplus-dev
-
+linuxserver/flexget
