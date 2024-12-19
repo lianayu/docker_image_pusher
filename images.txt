@@ -24,3 +24,7 @@ zerotier/zerotier-synology
 wiserain/flexget
 iyuucn/iyuuplus-dev
 linuxserver/flexget
+nginx:1.23.4
+redis:6.2.12
+mysql:5.7
+campus/campus-imaotai:1.0.13
